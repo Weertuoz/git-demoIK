@@ -6,5 +6,3 @@ what does mean?
 + five
 test after cutting off
 tra ta ta
-
-new version for remote GIT
