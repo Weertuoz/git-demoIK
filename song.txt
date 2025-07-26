@@ -10,8 +10,3 @@ tra ta ta
 new line new day
 
 ======
-revert function. attempt 2
-
-for branch test
-
-new line again
