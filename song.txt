@@ -8,7 +8,3 @@ test after cutting off
 tra ta ta
 
 new line new day
-
-======
-revert function. attempt 2
-
