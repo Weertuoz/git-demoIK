@@ -1,6 +1,8 @@
 text of the song
 bla bla bla
-la la la
 
 test gui
 what does mean?
++ five
+test after cutting off
+tra ta ta
